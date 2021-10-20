@@ -33,7 +33,7 @@ sudo npm -g install cssadd
 ### Add CSS
 
 ```JavaScript
-  import { cssadd } from './js/spux.js'
+  import { cssadd } from 'https://cdn.skypack.dev/cssadd'
   cssadd('./style.css')
 ```
 
