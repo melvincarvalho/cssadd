@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Add CSS</h1>
+  <h1>CSS Add</h1>
 </div>
 
 <div align="center">  
@@ -15,9 +15,28 @@ Add CSS to a web page
 ---
   
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/melvincarvalho/addCSS/blob/gh-pages/LICENSE)
-![npm](https://img.shields.io/npm/v/addcss)
-[![npm](https://img.shields.io/npm/dw/addcss.svg)](https://npmjs.com/package/addcss)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/melvincarvalho/cssadd/blob/gh-pages/LICENSE)
+![npm](https://img.shields.io/npm/v/cssadd)
+[![npm](https://img.shields.io/npm/dw/cssadd.svg)](https://npmjs.com/package/cssadd)
 
-# addCSS
-add css to a web page
+## Features
+
+&nbsp;&nbsp;✓&nbsp; Add CSS to a web page<br>
+
+## Getting Started
+### Install with npm
+
+```
+sudo npm -g install cssadd
+```
+
+### Add CSS
+
+```JavaScript
+  import { cssadd } from './js/spux.js'
+  cssadd('./style.css')
+```
+
+## License
+
+MIT
