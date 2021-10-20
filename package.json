@@ -1,6 +1,6 @@
 {
   "name": "cssadd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "add css to a web page",
   "type": "module",
   "main": "index.js",
