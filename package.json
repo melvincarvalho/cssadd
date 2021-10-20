@@ -1,0 +1,23 @@
+{
+  "name": "addcss",
+  "version": "0.0.2",
+  "description": "add css to a web page",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/addCSS.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/addCSS/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/addCSS#readme"
+}
